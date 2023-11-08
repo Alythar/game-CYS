@@ -1,0 +1,80 @@
+### 1. Latar belakang
+   Membuat game pertama saya, tentu itu bukan hal yang mudah bahkan sebetulnya rumit bagi saya yang baru mengenal teknologi terutama bidang informatika oleh karena itu saya ingin membuat game yang membuat playernya merasa sedikit kesulitan. Maka dari itu saya akan membuat game perhitungan atau masuk kategori matematika.
+
+### 2. Deskripsi dan alur cerita dari game
+   Pada game ini akan ada player yang memasukan score final sesuai angka score yang dia inginkan. setelah itu dia akan mulai permainan dengan mengambil atau mencari poin dengan berbagai elemen dan diwaktu tertentu akan ada tantangan soal matematika yang  muncul dan harus diselesaikan oleh player. jika player gagal maka ia akan memulai dari awal lagi. misalnya di game dengan score yang dia input terdapat 3 soal matematika yang akan muncul lalu ia tidak bisa menjawab soal matematika di soal yang kedua, maka ia akan kembali mundur melanjutkan game dari soal yang pertama, jadi ga mulai dari awal lagi. jika player gagal menjawab pertanyaan. ia bisa mencoba dengan 2 kali percobaan menjawab soal tersebut dengan nyawanya. nyawa akan ada seperti elemen di game tersebut sama kaya poin score. setelah ia menyelesaikan dengan benar bahwa hasil akhir sesuai dengan score yang ia input diawal maka ia dapat menyelesaikan permainan. dan jika tidak maka game over....
+
+### 3. branding dari game
+a. nama
+namanya count yourself 
+ini kepikiran gitu aja walaupun artinya hitung diri kamu sendiri yang itu kaya kurang logis tapi sayya pengen pake itu aja hehe.
+b. target pengguna
+game ini untuk semua kalangan terutama pelajar karena ini berkaitan dengan perhitungan. namun saya lebih menargetkan kepada orang orang yang ga ada kerjaan atau orang orang yang sedang merasa hidupnya sulit atau berat agar mereka bisa bahagia dan mengetahui hikmah dari apa yang dia alami. karena game ini penuh hikmahnya juga sebetulnya.
+
+### 4. apa aja yang bisa player lakukan
+player bisa input score yang ia ingin hasilkan di akhir, saat mulai permainan ia dapat mengambil elemen elemen yang bernilai point. disaat waktu muncul soal matematika dengan dua opsi yaitu a dan b player bisa memilih salah satu. Player dapat mengambil elemen point. player dapat menggunakan nyawa dengan mencarinya selama game berlangsung. player dapat menyelesaikan tantangan dengan menjawab soal matematika yang akan muncul di tengah permainan game dengan memilih opsi a atau b.
+
+
+### 5.
+
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+
+## 2. variabel = nama, score, point 
+   data type = boolean , numeric, text ,
+   operators = aritmetic, comparison, logical.
+
+
+## 3. boolean = untuk score dan point jika sesuai maka true dan melanjutkan operasi ke kondisi yang disediakan
+
+   condition = kondisi if else untuk score point jika sama seperti yang sudah diinput diawal maka kondisi true dan menang
+             = switch case buat kondisi kalo misalnya point sudah tercapai maka akan muncul tantangan soal matematika beserta muncul opsi jawaban
+             = if else untuk kondisi jika jawaban benar maka game lanjut jika salah maka mengulang lagi gamenya.
+
+## 4. looping = untuk menghitung nambah terus point.
+   array = isi elemen point sama rintangan yang nantinya ada di game.
+
+## 5. method
+
+## 6. class = player, score, rintangan.
+
+## 7.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
